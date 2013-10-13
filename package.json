@@ -1,0 +1,19 @@
+{
+  "name": "node-pong",
+  "version": "0.1.0",
+  "description": "A tiny library to check node.js workers are still a live",
+  "main": "pong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/narqo/node-pong.git"
+  },
+  "author": "Vladimir 'Vii' Varankin <nek.narqo@gmail.com> (http://github.com/narqo)",
+  "readmeFilename": "README.md",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "~0.7.10"
+  }
+}
